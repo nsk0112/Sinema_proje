@@ -1,0 +1,11 @@
+Misir(M)  15,500000
+Misir(L)  18,000000
+Kola(S)  5,000000
+Kola(M)  7,500000
+Kola(L)  10,000000
+Su  2,000000
+Kraker  4,000000
+Cikolata  5,000000
+Cay  2,000000
+Kahve  4,500000
+Cips  7,500000

@@ -1,0 +1,52 @@
+
+
+
+	--> Film adi: Loving Vincent
+	--> Film kodu: 24660
+	--> Film turu: Animasyon/Dram
+	--> Film suresi: 155 dakika
+	--> Film özelliði: Altyazili
+	--> 1 numarali seans: 12.30
+	--> 2 numarali seans: 15.30
+	--> 3 numarali seans: 18.30
+	--> IMDB puani: 7,8
+	--> Film Ozeti: Loving Vincent, yonetmenligini Dorota Kobiela ve Hugh Welchman'in birlikte yaptigi 2017 cikisli Polonya ve Birlesik Krallik ortak yapimi biyografik animasyon film. Film, ressam Vincent van Gogh'un yasami ve ozellikle de olumune zemin hazirlayan sartlari konu edinmektedir.
+
+
+	--> Film adi: Oyuncak Hikayesi 4
+	--> Film kodu: 24661
+	--> Film turu: Animasyon/Aile
+	--> Film suresi: 100 dakika
+	--> Film özelliði: Normal
+	--> 1 numarali seans: 11.00
+	--> 2 numarali seans: 13.00
+	--> 3 numarali seans: 15.00
+	--> 4 numarali seans: 17.00
+	--> IMDB puani: 7,7
+	--> Film Ozeti: Oyuncak Hikayesi 4, kasiktan yapilma bir oyuncak olan Forky'nin atildigi macerayi konu ediyor. Kendisini oyuncaktan gormedigi icin Bonnie'nin yaninda kalmak zorunda oldu§unu hissetmeyen Forky, dunyadaki amacini kasik olarak yerine getirmeye karar verir. Ancak onun oyuncak olarak ustesinden gelmesi gereken bambaska bir gorevi vardir.
+
+
+	--> Film adi: Parazit
+	--> Film kodu: 24662
+	--> Film turu: Drama
+	--> Film suresi: 132 dakika
+	--> Film özelliði: 3D ve Altyazili
+	--> 1 numarali seans: 14.00
+	--> 2 numarali seans: 17.30
+	--> 3 numarali seans: 20.30
+	--> IMDB puani: 8,6
+	--> Film Ozeti: Sans veya kader olsun, Park ve Kim aileleri bir araya gelir. Manipulasyon konusunda egitilen Kim cocuklari, ogretmen ve sanat terapisti gorevleriyle kendilerini zengin Park ailesinin arasina yerlestirirken Parklar habersizce evlerindeki her seyi Kim ailesine kaybetmektedir. Ancak bir misafir Kim ailesinin kesfettikleri konforu tehdit eder hale gelince zorlayici bir ustunluk mucadelesi patlak verir.
+
+
+	--> Film adi: Avengers:Endgame
+	--> Film kodu: 24663
+	--> Film turu: Aksiyon/Bilim-Kurgu
+	--> Film suresi: 182 dakika
+	--> Film özelliði: 3D ve Altyazili
+	--> 1 numarali seans: 11.30
+	--> 2 numarali seans: 15.00
+	--> 3 numarali seans: 18.30
+	--> 4 numarali seans: 22.00
+	--> 5 numarali seans: 22.30
+	--> IMDB puani: 8,4
+	--> Film Ozeti: Infinity War'la korkunc titan Thanos amacina ulasmis ve evrenin yarisini yok etmisti. Russo Kardesler'in yeniden yonetmen koltuguna oturdugu Avengers:Endgame'de evrenin sevilen kahramanlari Captain Marvel'i da yanlarina alarak her seyleri pahasina Thanos'a karsi mucadeleyi surdurecekler.

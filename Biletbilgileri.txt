@@ -1,0 +1,46 @@
+
+ 			***BİLET BİLGİLERİ***
+ 		-->Ödenen:35,500000
+		-->Film Kodu:24658
+		-->Kişi sayısı:3
+		-->Seans:12.00
+		-->1.Koltuk Numarası:b5
+ 		-->2.Koltuk Numarası:b6
+ 		-->3.Koltuk Numarası:b7
+ 			***BİLET BİLGİLERİ***
+ 		-->Ödenen:35,500000
+		-->Film:24659
+		-->Kişi sayısı:3
+		-->Seans:12.00
+		-->1.Koltuk Numarası:a1
+ 		-->2.Koltuk Numarası:a2
+ 		-->3.Koltuk Numarası:a3
+ 			***BİLET BİLGİLERİ***
+ 		-->Ödenen:25,500000
+		-->Film:24660
+		-->Kişi sayısı:2
+		-->Seans:15.30
+		-->1.Koltuk Numarası:C3
+ 		-->2.Koltuk Numarası:C4
+ 			***BİLET BİLGİLERİ***
+ 		-->Ödenen:10,000000
+		-->Film:24660
+		-->Kişi sayısı:1
+		-->Seans:18.30
+		-->1.Koltuk Numarası:c5
+ 			***BİLET BİLGİLERİ***
+ 		-->Ödenen:41,000000
+		-->Film:24660
+		-->Kişi sayısı:3
+		-->Seans:15.30
+		-->1.Koltuk Numarası:B3
+ 		-->2.Koltuk Numarası:B4
+ 		-->3.Koltuk Numarası:B5
+ 			***BİLET BİLGİLERİ***
+ 		-->Ödenen:31,000000
+		-->Film:24662
+		-->Kişi sayısı:2
+		-->Seans:20.30
+		-->1.Koltuk Numarası:E4
+ 		-->2.Koltuk Numarası:E5
+ 
